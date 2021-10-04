@@ -1,0 +1,1 @@
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-v"],"disabled":[],"endTimestamp":1633306207274,"failedBuilds":{},"noPackages":["com.saggitt.omega.dev"],"startTimestamp":1633306204000,"subcommand":"update"}
